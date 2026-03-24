@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Matheus
 
-💻 Estudante de Tecnologia da Informação  
+💻 Estudante de Ciência da Computação pela universidade UNA 
 🚀 Em busca de me tornar um desenvolvedor Full Stack  
 
 ---

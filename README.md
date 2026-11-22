@@ -1,60 +1,11 @@
-# 👋 Olá, eu sou o Matheus
+# Olá, eu sou o Matheus
 
-💻 Estudante de Ciência da Computação pela universidade UNA 
+Estou concluindo a graduação em Ciência da Computação na UNA e tenho foco em desenvolvimento back-end, principalmente com Python.
 
-🚀 Em busca de me tornar um desenvolvedor Full Stack  
+Meu principal projeto hoje é o **BotGen**, um assistente de atendimento pelo WhatsApp para pequenos negócios, como barbearias e clínicas. Ele responde os clientes com IA, direciona para uma página de agendamento e oferece ao dono um painel com horários, lembretes automáticos e pagamento via PIX. Quando necessário, um atendente assume a conversa no lugar do bot. O projeto também segue a LGPD, com aviso de uso de IA e exclusão de dados a pedido do cliente.
 
----
+Desenvolvi a aplicação com FastAPI, PostgreSQL, SQLAlchemy e Evolution API, hospedada no Railway. O código é privado, mas apresento o projeto com prazer a quem tiver interesse.
 
-## 🧠 Tecnologias que estou estudando
+Gosto de construir soluções que resolvem problemas reais de quem está do outro lado, e busco minha primeira oportunidade como desenvolvedor back-end, seja em estágio ou vaga júnior.
 
-- Python
-- HTML
-- CSS
-- JavaScript
-
----
-
-## 📚 Atualmente aprendendo
-
-- Lógica de programação
-- Desenvolvimento web
-- Git e GitHub
-
----
-
-## 🎯 Objetivo
-
-Construir projetos reais, evoluir como desenvolvedor e trabalhar profissionalmente na área de tecnologia.
-
----
-
-## 📂 Projetos
-
-Em breve adicionarei projetos como:
-
-- Sistema de barbearia
-- Site de hamburgueria
-- Sistema de login
-- API em Python
-
----
-
-## 📫 Contato
-
-Em breve adicionarei minhas redes profissionais.
-
-<!--
-**matheus-de-oliveira-silva/matheus-de-oliveira-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tecnologias:** Python · FastAPI · PostgreSQL · SQLAlchemy · JavaScript · HTML/CSS · Git

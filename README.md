@@ -9,3 +9,5 @@ Desenvolvi a aplicação com FastAPI, PostgreSQL, SQLAlchemy e Evolution API, ho
 Gosto de construir soluções que resolvem problemas reais de quem está do outro lado, e busco minha primeira oportunidade como desenvolvedor back-end, seja em estágio ou vaga júnior.
 
 **Tecnologias:** Python · FastAPI · PostgreSQL · SQLAlchemy · JavaScript · HTML/CSS · Git
+
+**Contato:** https://www.linkedin.com/in/matheus-silva-57a596431
